@@ -23,6 +23,12 @@
 
   Deixo aqui meus sinceros agradecimentos ao professor [Paulo Sampaio](https://github.com/pauloesampaio) por ter ministrado esse curso incrível e ter nos acompanhando nesse período e ao meu mentor [Tiago Furlan](https://www.linkedin.com/in/tiagofl/) por todas as horas de troca, papo e ensinamentos!. :heart::heart:
   
+  </div>
+
+<hr>
+
+<div align = "center">
+  
  **Observações: Os dados de 'Visualizações de página' são fictícios e não correspondem aos dados reais. Os dados que são públicos e que estão disponibilizados nas páginas das matérias são verídicos. 
 
 </p>
