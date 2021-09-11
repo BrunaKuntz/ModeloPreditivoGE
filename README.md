@@ -1,6 +1,6 @@
 <div align = "center" id = "top">
 
-<img width="400" src="https://miro.medium.com/max/318/1*Dv_2wuz6wJAlEdrFp4PCGg@2x.png">
+<img width="200" src="https://miro.medium.com/max/318/1*Dv_2wuz6wJAlEdrFp4PCGg@2x.png">
 
 </div>
 
