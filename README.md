@@ -23,6 +23,8 @@
 
   Deixo aqui meus sinceros agradecimentos ao professor [Paulo Sampaio](https://github.com/pauloesampaio) por ter ministrado esse curso incrível e ter nos acompanhando nesse período e ao meu mentor [Tiago Furlan](https://www.linkedin.com/in/tiagofl/) por todas as horas de troca, papo e ensinamentos!. :heart::heart:
   
+  Todas  as etapas deste projeto estão documentadas no artigo do Medium ["Modelo de Classificação — Uma análise das matérias do Globo Esporte"](https://medium.com/@brunakuntz/modelo-de-classifica%C3%A7%C3%A3o-uma-an%C3%A1lise-das-mat%C3%A9rias-do-globo-esporte-79607375c1da). Além disso, lá é possível ver alguns insights extras que fizeram parte da análise de dados.
+  
   </div>
 
 <hr>
